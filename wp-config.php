@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'db_lgblog' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'forge' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'ipJlBz5ays4ho80oULXY' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
