@@ -26,7 +26,7 @@ define( 'DB_NAME', 'db_lgblog' );
 define( 'DB_USER', 'forge' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'ipJlBz5ays4ho80oULXY' );
+define( 'DB_PASSWORD', 'mygoCjnqbPDZpOoKSXGL' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -91,6 +91,7 @@ define( 'WP_DEBUG', false );
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
 }
+
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
